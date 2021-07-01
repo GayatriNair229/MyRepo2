@@ -1,7 +1,7 @@
-function triple(num)
+function IntoFour(num)
 {
-  return x*3;
+  return x*4;
 }
 
 var x= 234;
-triple(x);
+IntoFour(x);
